@@ -1,1 +1,1 @@
-worker: bash RiZoeL
+worker: python3 -m suzune 
